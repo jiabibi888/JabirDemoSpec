@@ -1,0 +1,6 @@
+framework module JabirDemoSpec {
+  umbrella header "JabirDemoSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_JabirDemoSpec_Example {
+  umbrella header "Pods-JabirDemoSpec_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
