@@ -1,0 +1,2 @@
+# JabirDemoSpec
+JabirDemoSpec for CocoaPods
